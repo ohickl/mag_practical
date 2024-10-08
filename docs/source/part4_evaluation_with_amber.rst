@@ -42,7 +42,7 @@ The gold standard mapping file should be provided or known:
    sed -i -e 's/@SampleID:gsa/@SampleID:sample_21/' gold_standard.tsv
 
    # Inspect the gold standard file
-   head -n 10 "${gold_standard}"
+   head -n 10 gold_standard.tsv
 
 **Questions**
 
