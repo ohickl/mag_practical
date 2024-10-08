@@ -9,10 +9,10 @@ Welcome to the Metaproteomics Practical Workshop!
    prerequisites
    setup_session.rst
    general_tips
-   part1_data_conversion
-   part2_database_construction
-   part3_running_searches
-   part4_search_result_inspection.rst
+   part1_read_coverage_analysis
+   part2_run_binners
+   part3_bin_refinement_and_evaluation
+   part4_evaluation_with_amber
    conclusion
    faq
 
