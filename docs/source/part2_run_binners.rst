@@ -45,7 +45,7 @@ Create a configuration file for MetaDecoder:
    bin2cont_script="${course_path}/scripts/binning_practical/bin2contig.py"
 
    python3 ${bin2cont_script} \
-      ${md_output_dir}/METADECODER \
+      ${md_output_dir} \
       ${md_output_dir}/contig_bins.tsv
 
 **Step 2: Inspect MetaDecoder Output**
