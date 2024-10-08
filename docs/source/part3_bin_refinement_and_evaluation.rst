@@ -15,10 +15,6 @@ Ensure that all binning results are properly organized and accessible:
 
 .. code-block:: bash
 
-   # Define variables
-   assembly="assembly/assembly.fasta"
-   threads=32
-
    # Create a directory for DAStool results
    dt_output_dir="bins/dastool"
    mkdir -p "${dt_output_dir}"
