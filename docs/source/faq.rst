@@ -77,4 +77,3 @@ A: Longer reads from technologies like Oxford Nanopore and PacBio can span repet
 **Q: What is the difference between completeness and contamination in bin quality assessment?**
 
 A: **Completeness** refers to the proportion of a genome that is present in a bin, while **contamination** indicates the presence of sequences from other genomes in the bin. High-quality bins have high completeness and low contamination, meaning they contain most of the target genome's sequences with minimal foreign DNA.
-
