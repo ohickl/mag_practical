@@ -133,15 +133,15 @@ Display the bin quality summaries for each binner:
    for binner in "${binners[@]}"; do
      echo "CheckM2 results for ${binner}:"
      checkm2_output_dir="bins/${binner}/checkm2"
-     cat "${checkm2_output_dir}/checkm2_results.tsv"
+     cat "${checkm2_output_dir}/quality_report.tsv"
      echo "--------------------------------------------"
-   done
+   done | less -RS
 
 **Questions**
 
 - **Q5:** Which binner produced bins with the highest completeness and lowest contamination?
 - **Q6:** Did DAStool improve bin quality compared to individual binners?
-- **Q7:** How significant is the improvement provided by DAStool?
+- **Q7:** How significant is the improvement (if at all) provided by DAStool?
 
 **Notes**
 
