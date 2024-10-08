@@ -48,6 +48,9 @@ Create a configuration file for MetaDecoder:
       ${md_output_dir} \
       ${md_output_dir}/contig_bins.tsv
 
+   # Move metadecoder intermediate files to output directory
+   mv *metadecoder* ${md_output_dir}
+
 **Step 2: Inspect MetaDecoder Output**
 
 List the bins generated:
