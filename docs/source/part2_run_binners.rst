@@ -107,7 +107,7 @@ List the bins generated:
 
 .. code-block:: bash
 
-   ls -lh bins/metabat2
+   ls -lh ${mb_output_dir}
 
 **Questions**
 
@@ -149,7 +149,7 @@ List the bins generated:
 
 .. code-block:: bash
 
-   ls -lh bins/semibin2
+   ls -lh ${sb_output_dir}
 
 **Questions**
 

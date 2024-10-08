@@ -1,4 +1,4 @@
-Welcome to the Metaproteomics Practical Workshop!
+Welcome to the Metagenomic Binning Practical Workshop!
 =================================================
 
 .. toctree::
