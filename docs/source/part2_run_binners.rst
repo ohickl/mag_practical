@@ -149,7 +149,7 @@ List the bins generated:
 
 .. code-block:: bash
 
-   ls -lh ${sb_output_dir}
+   ls -lh ${sb_output_dir}/output_bins
 
 **Questions**
 

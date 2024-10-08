@@ -79,7 +79,7 @@ Set the `CHECKM2DB` environment variable:
    # Move it to session path
    rsync -avP "${checkm2_db_path}" "${session_path}/mag_practical"
 
-   export CHECKM2DB="${session_path}/CheckM2_database/uniref100.KO.1.dmnd"
+   export CHECKM2DB="${session_path}/mag_practical/CheckM2_database/uniref100.KO.1.dmnd"
 
 **Step 3: Run CheckM2 on All Binner/Refiner Outputs**
 
