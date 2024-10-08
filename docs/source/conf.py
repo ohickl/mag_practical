@@ -4,8 +4,8 @@ sys.path.insert(0, os.path.abspath('../../'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'Metaproteomics Practical Workshop'
-author = 'Oskar Hick  Luxembourg Centre for Systems Biomedicine'
+project = 'Metagenomic Binning Practical Workshop'
+author = 'Oskar Hickl  Luxembourg Centre for Systems Biomedicine'
 release = '1.0'
 
 # -- General configuration ---------------------------------------------------

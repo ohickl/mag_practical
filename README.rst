@@ -1,6 +1,6 @@
-# Metaproteomics Practical Workshop
+# Metagenomic Binning Practical Workshop
 
-This repository contains materials for the Metaproteomics Practical Workshop, including documentation, scripts, and data files.
+This repository contains materials for the Metagenomics Binning Practical Workshop, including documentation, scripts, and data files.
 
 ## Documentation
 
