@@ -72,7 +72,7 @@ Create a histogram of coverage values:
 
 .. hint::
 
-   .. toggle:: **Notes**
+   .. toggle::
 
       - Coverage is a proxy for the abundance of the organism from which the contig originated.
       - Contigs from the same genome should have similar coverage patterns.
